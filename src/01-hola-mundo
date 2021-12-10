@@ -1,0 +1,8 @@
+nano 01-hola-mundo.sh
+#####################
+#/bin/bash
+#####################
+echo "Hola Mundo $1!
+chmod 777 01-hola-mundo.sh
+./01-hola-mundo.sh
+¡Hola Mundo!
